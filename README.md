@@ -112,9 +112,9 @@ Les conteneurs peuvent être moins sécurisés que les VM puisque le système d'
 Les conteneurs sont une technologie plus récente et l'écosystème continue d'évoluer
 
 
-### Comparatif financier
+## Comparatif financier
 
-Pour un comparatif financier détaillé, se référer au document compare_costs.pdf ci-joint. 
+ <b> Pour un comparatif financier détaillé, se référer au document compare_costs.pdf ci-joint. </b>
 
 En conclusion, à hardware égal, l’ACI est plus cher que Azure Virtual Machine. Cependant, il est bien plus léger à configurer et à maintenir.
 
