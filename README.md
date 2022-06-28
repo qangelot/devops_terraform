@@ -1,4 +1,5 @@
 # devops_terraform
+
 Hands on Terraform exercises
 
 ## Objectifs
@@ -17,15 +18,12 @@ Hands on Terraform exercises
 * Créer une clef SSH avec Terraform
 * OS : Ubuntu 16.04-LTS
 
-## Terraform 
+## Terraform et son intérêt
 
 Terraform est un outil d'infrastructure en tant que code qui vous permet de définir des
-dans des fichiers de configuration lisibles par l'homme, que vous pouvez modifier, réutiliser et partager.
-partager. Vous pouvez ensuite utiliser un flux de travail cohérent pour approvisionner et gérer toute votre infrastructure tout au long de son cycle de vie.
+dans des fichiers de configuration lisibles par l'homme, que vous pouvez modifier, réutiliser et partager. Vous pouvez ensuite utiliser un flux de travail cohérent pour approvisionner et gérer toute votre infrastructure tout au long de son cycle de vie. Tout cela est automatisé et limite largement les erreurs.
 
-Terraform peut gérer des composants de bas niveau tels que
-comme les ressources de calcul, de stockage et de réseau, ainsi que les composants de haut niveau comme les entrées DNS et les fonctionnalités SaaS.
-et les fonctionnalités SaaS. 
+Terraform peut gérer des composants de bas niveau tels que les ressources de calcul, de stockage et de réseau, ainsi que les composants de haut niveau comme les entrées DNS et les fonctionnalités SaaS.
 
 ## Une architecture modulaire
 
