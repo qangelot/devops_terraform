@@ -2,6 +2,9 @@
 
 Hands on Terraform exercises
 
+![logo](https://foghornconsulting.com/wp-content/uploads/2020/07/Terraform-Logo-1.png)
+
+
 ## Objectifs
 
 * Créer une machine virtuelle Azure (VM) avec une adresse IP publique via Terraform
