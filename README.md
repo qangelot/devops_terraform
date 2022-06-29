@@ -2,6 +2,8 @@
 
 Hands on Terraform exercises
 
+![logo](https://assets.intersystems.com/e4/e5/c7728ffb4f60964a6e7d089905f0/azure-logo-large.jpg)
+
 ![logo](https://foghornconsulting.com/wp-content/uploads/2020/07/Terraform-Logo-1.png)
 
 
