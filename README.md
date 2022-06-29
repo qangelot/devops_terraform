@@ -20,8 +20,7 @@ Hands on Terraform exercises
 
 ## Terraform et son intérêt
 
-Terraform est un outil d'infrastructure en tant que code qui vous permet de définir des
-dans des fichiers de configuration lisibles par l'homme, que vous pouvez modifier, réutiliser et partager. Vous pouvez ensuite utiliser un flux de travail cohérent pour approvisionner et gérer toute votre infrastructure tout au long de son cycle de vie. Tout cela est automatisé et limite largement les erreurs.
+Terraform est un outil d'infrastructure en tant que code qui vous permet de définir des ressources dans des fichiers de configuration lisibles par l'homme, que vous pouvez modifier, réutiliser et partager. Vous pouvez ensuite utiliser un flux de travail cohérent pour approvisionner et gérer toute votre infrastructure tout au long de son cycle de vie. Tout cela est automatisé et limite largement les erreurs.
 
 Terraform peut gérer des composants de bas niveau tels que les ressources de calcul, de stockage et de réseau, ainsi que les composants de haut niveau comme les entrées DNS et les fonctionnalités SaaS.
 
@@ -112,7 +111,7 @@ Les conteneurs sont une technologie plus récente et l'écosystème continue d'�
 
 ## Comparatif financier
 
- <b> Pour un comparatif financier détaillé, se référer au document compare_costs.pdf ci-joint. </b>
+ <b> Pour un comparatif financier détaillé, se référer au document [a relative link](compare_costs.pdf) </b>
 
 En conclusion, à hardware égal, l’ACI est plus cher que Azure Virtual Machine. Cependant, il est bien plus léger à configurer et à maintenir.
 
