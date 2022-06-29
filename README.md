@@ -83,7 +83,7 @@ Les machines virtuelles existent depuis des décennies, permettant aux entrepris
 
 Les conteneurs ont rapidement gagné en popularité depuis la sortie de Docker en 2013, en partie en réponse à la quantité de surcharge consommée par les machines virtuelles. Étant donné que les conteneurs fonctionnent sur le système d'exploitation d'un serveur, ils partagent cette seule instance de système d'exploitation et d'autres binaires et bibliothèques, de sorte que les conteneurs n'ont besoin d'inclure que le code d'application, que ce soit sous la forme d'une seule application monolithique ou de microservices regroupés dans un ou plusieurs conteneurs pour englober une fonction commerciale.
 
-Ainsi, alors que les machines virtuelles permettent à une organisation d'exécuter plusieurs serveurs virtuels sur un seul matériel, quels que soient leurs systèmes d'exploitation, les conteneurs offrent une virtualisation d'applications légère et haute densité , la possibilité de faire tourner les applications et les instances de haut en bas en quelques secondes, et dans une certaine mesure de sécurité inhérente à la séparation des applications dans leurs propres conteneurs.
+Ainsi, alors que les machines virtuelles permettent à une organisation d'exécuter plusieurs serveurs virtuels sur un seul matériel, quels que soient leurs systèmes d'exploitation, les conteneurs offrent une virtualisation d'applications légère et haute densité , la possibilité de faire tourner les applications et les instances en quelques secondes, et dans une certaine mesure de sécurité inhérente à la séparation des applications dans leurs propres conteneurs.
 
 ### Avantages de la VM :
 
